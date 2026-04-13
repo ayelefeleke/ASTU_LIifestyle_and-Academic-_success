@@ -1,0 +1,51 @@
+     Name,                 Age,                Gender,Study_Hours,Sleep_Hours,Internet_Usage,Attendance(%),         Year,Stress_level,GPA,Department
+Ayele Feleke,21,Male,8,8,3,100,2nd,High,3.96,Software Engineering
+Fenet Gosa,24,Female,7,8,3,90,3rd,Medium,3.45,Applied Maths
+Rabira Hundessa,25,Male,4,5,7,70,3rd,High,2.8,Mechanical Engineering
+Genet Fiqadu,21,Female,8,9,4,89,2nd,Low,3.85,Civil Engineering
+Sengi Galana,23,Male,3,5,7,65,2nd,High,2.6,Material Engineering
+Ruut Belete,23,Female,7,8,4,90,3rd,Medium,3.85,Computer Science
+Gosa Bogale,21,Male,5,6,4,95,2nd,High,3.89,Applied Maths
+Lidia Zemene,22,Female,9,9,2,75,2nd,Low,3.33,Mechanical Engineering
+Samrawit Zewdu,20,Female,4,6,7,70,2nd,High,2.95,Civil Engineering
+Jemal Kadir,23,Male,3,6,7,89,3rd,High,3.89,Software Engineering
+Kalkidan Tesema,22,Female,6,7,3,100,3rd,Medium,4,Computer Science
+Naol Shumi,23,Male,6,7,6,97,3rd,High,2.95,Applied Maths
+Jemila Abdo,21,Female,7,8,3,86,2nd,Low,3.7,Mechanical Engineering
+Aster Fiqadu,23,Female,7,8,3,65,2nd,Medium,3.23,Civil Engineering
+Hacalu Tadesa,20,Male,4,5,7,100,2nd,High,3.6,Pharmacy
+Tsedalu Biyansa,20,Female,8,9,4,87,2nd,Low,3.92,Computer Science
+Yared Samuel,20,Male,6,7,4,95,2nd,Medium,3.25,Applied Maths
+Almaz Teferi,22,Female,6,7,6,85,2nd,High,3,Mechanical Engineering
+Yoseph Zeyeda,21,Male,3,5,6,87,2nd,High,2.65,Civil Engineering
+Yordanos Fikru,23,Female,8,9,2,83,3rd,Low,2.92,Water Engineering
+Habtamu Beyan,20,Male,4,5,7,95,2nd,High,3.56,Computer Science
+Fikir Ketema,20,Female,7,8,2,89,2nd,Medium,3,Applied Maths
+Aron Badhane,21,Male,5,6,5,87,2nd,High,3.1,Mechanical Engineering
+Melat Yoseph,23,Female,9,9,3,93,3rd,Low,3.95,Software Engineering
+Ashenafi Gemechu,22,Male,3,5,6,79,2nd,High,2.5,water Engineering
+Nardos Tesfaye,24,Female,7,8,3,79,3rd,Medium,3.75,Computer Science
+Iyasu Dawit,21,Male,5,6,6,98,2nd,High,3.65,Applied Maths
+Burtukan Roba,20,Female,8,9,2,78,2nd,Low,3.8,Mechanical Engineering
+Girum Ketema,23,Male,4,5,6,65,3rd,High,2.95,Civil Engineering
+Dureti Belay,21,Female,7,8,4,75,2nd,Medium,3.8,Software Engineering
+Yerosan Badhasa,21,Male,5,6,3,75,2nd,High,3.97,Computer Science
+Yeron Ayele,21,Female,7,8,3,80,2nd,Medium,3.45,Applied Maths
+Samuel Galata,20,Male,4,5,7,89,2nd,High,2.8,Mechanical Engineering
+Biqiltu Geremawu,21,Female,8,9,2,97,2nd,Low,3.85,Civil Engineering
+Daniel Kibret,23,Male,3,5,7,69,3rd,High,2.6,Power 
+Ameyu Waquma,22,Female,7,8,4,100,2nd,Medium,3.96,Computer Science
+Dawit Tolosa,19,Male,5,6,4,68,2nd,High,3.47,Applied Maths
+Natanim Seifu,22,Female,9,9,2,90,2nd,Low,3.9,Mechanical Engineering
+Darartu Abebe,20,Female,4,6,7,77,2nd,High,2.95,Civil Engineering
+Aga Alemayehu,23,Male,3,6,7,96,2nd,High,3.78,Applied pysics
+Birke Nega,20,Female,6,7,3,87,2nd,Medium,3.89,Computer Science
+Tesema Melese,22,Male,6,7,6,67,2nd,High,2.95,Applied Maths
+Tariknesh Kenenisa,23,Female,7,8,4,84,3rd,Low,3.7,Mechanical Engineering
+Xurunesh Gadisa,23,Female,7,8,3,82,3rd,Medium,3.65,Civil Engineering
+Yadeta Ibsa,20,Male,4,5,7,100,2nd,High,3.74,Architecture
+Hana Tamiru,22,Female,8,9,3,98,2nd,Low,3.8,Software Engineering
+Tolosa Lenco,20,Male,6,7,4,79,2nd,Medium,3.75,Applied Maths 
+Simret Tamirat,22,Female,6,7,6,89,2nd,High,3,Mechanical Engineering
+Leul Mesfin,21,Male,3,5,6,90,2nd,High,3.44,Civil Engineering
+Dibora Atlawu,23,Female,8,9,2,75,3rd,Low,3,Communication
